@@ -1,0 +1,22 @@
+{
+  "name": "validasinomortelpon",
+  "version": "1.0.0",
+  "description": "untuk mencari nama operator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokorame-Dev/validasiNomorTelpon.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "nurihsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokorame-Dev/validasiNomorTelpon/issues"
+  },
+  "homepage": "https://github.com/Tokorame-Dev/validasiNomorTelpon#readme"
+}
