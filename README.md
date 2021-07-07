@@ -4,13 +4,13 @@ Untuk Mendapatkan Nama Operator Dari Nomor Yang Diinput
 
 # Cara Install
 
-`npm install validasi-nomor-telpon`
+`npm install @nurihsan76/validasinomortelpon`
 
 Penggunaan...
 
 ```
 
-import { validasiNomor } from 'validasi-nomor-telpon';
+import { validasiNomor } from '@nurihsan76/validasinomortelpon';
 
 validasiNomor(nomor)
 
